@@ -21,10 +21,12 @@ const PALAVROES = [
 ];
 
 const DOMINIOS_18 = [
-  'onlyfans.com', 'pornhub.com', 'xvideos.com', 'xnxx.com',
-  'xhamster.com', 'redtube.com', 'youporn.com', 'nhentai.net',
-  'hentaihaven.xxx', 'hanime.tv', 'hentai2read.com', 'fakku.net',
-  'hentai-foundry.com', 'rule34.xxx', 'gelbooru.com', 'danbooru.donmai.us'
+  'onlyfans', 'pornhub', 'xvideos', 'xnxx',
+  'xhamster', 'redtube', 'youporn', 'nhentai',
+  'hentaihaven', 'hanime', 'hentai2read', 'fakku',
+  'hentai-foundry', 'rule34', 'gelbooru', 'danbooru',
+  'eporner', 'spankbang', 'xempire', 'beeg',
+  'hentaisea', 'hentairead', 'tsumino', 'luscious'
 ];
 
 const AVISOS = new Map();
